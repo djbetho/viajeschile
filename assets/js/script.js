@@ -2,7 +2,7 @@ $(document).ready(function () {
     $('[data-toggle="tooltip"]').tooltip();
   
     $("#enviar").click(function() {
-        alert("El correo fue enviado correctamente...");
+        alert("Su mensaje se a enviado correctamente lo contactaremos a la brevedad");
       });
 
   });
